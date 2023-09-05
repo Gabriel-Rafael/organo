@@ -1,0 +1,16 @@
+.rodape-container {
+    background-color: #362222;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 50px 0;
+}
+
+.sociais img {
+    margin: 0 20px;
+}
+
+.texto h4 {
+    color: #fff;
+    font-weight: 400;
+}
